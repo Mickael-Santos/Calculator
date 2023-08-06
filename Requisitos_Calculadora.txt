@@ -1,0 +1,20 @@
+Pré-requisitos
+- A calculadora deverá ser capaz de resolver:
+Soma
+Subtração
+Multiplicação
+- A calculadora deverá exibir os resultados em 
+uma tela no console;
+
+
+Requisitos Adicionais
+
+- A calculadora poderá solicitar ao usuário 
+depois de uma operação se ele deseja somar 
+a partir dali novamente;
+
+- A calculadora poderá realizar operações de
+segundo e terceiro grau;
+
+- A calculadora poderá executar uma operação
+de soma, subtração e multiplicação de uma vez.
